@@ -11,7 +11,7 @@
  * so a stranger who finds the URL can't run up your Anthropic bill.
  */
 
-const ALLOWED_ORIGIN = 'https://REPLACE-WITH-YOUR-GITHUB-PAGES-DOMAIN.github.io';
+const ALLOWED_ORIGIN = 'https://morningbird-solutions.github.io';
 const RATE_LIMIT = 5;                 // max requests
 const RATE_WINDOW_SECONDS = 3600;     // per hour
 
